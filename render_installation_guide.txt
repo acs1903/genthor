@@ -76,7 +76,7 @@ desktop and wanted to see things on the screen as they rendered, you could leave
 
 - You can then install it in the same location (path to install has to be the same as path you called makepanda)
 
-python makepanda/installpanda.py --prefix=/[PATHYOUWANTTOINSTALLIN]
+python makepanda/installpanda.py --prefix=/[PATH_TO_PANDA_INSTALL]
 
 
 Set sys path of Panda
